@@ -1,7 +1,7 @@
 #This is a directory busting  tool which mainly takes two arguments i.e. url of the target and the wordlist.
 #This can be also used for finding files of any any type present in that directory by passing additional parameters.
 #More details are available on github.com/ashigup/corobuster
-
+###################################################################
 import requests
 import sys
 #here prCyan,prYellow and prGreen are the functions defined for the printing the text in cyan , yellow and green colour respectively.
@@ -27,7 +27,6 @@ print("\n\n\n\n")
 
 prCyan(banner_me)
 print("\n\n\n\n")
-
 
 prGreen(aut)
 
@@ -66,11 +65,10 @@ for i in f:
       r.close
 f.close()
 
-
 prGreen("\nDirectory Busting is completed")
 prYellow(sep) 
 
-
+#############################################################
 
 
 
