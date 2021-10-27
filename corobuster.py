@@ -39,7 +39,7 @@ length=len(sys.argv)
 #print (ext)
 #print (url)
 #print (c)
-
+#prerequisites required
 print("")
 print("")
 
@@ -68,7 +68,7 @@ f.close()
 prGreen("\nDirectory Busting is completed")
 prYellow(sep) 
 
-#############################################################
+#####################################
 
 
 
