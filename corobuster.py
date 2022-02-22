@@ -18,8 +18,7 @@ banner_me='''
              ###            ###         ###   ###     ###      ###	   ###
              ############   ###############   ###      ###     ###############
              ############   ###############   ###       ###    ###############               '''
-aut=''' Author : Ashish Kumar aka Lucifer_07__  (github.com/ashigup) 
-         : Arun Kumar Verma (github.com/akverma00)    '''
+aut=''' Author : Ashish Kumar aka Lucifer_07__  (github.com/ashigup)    '''
 sep="***************************************************************************************************************************************************"
 print("\n\n")
 prYellow(sep)
